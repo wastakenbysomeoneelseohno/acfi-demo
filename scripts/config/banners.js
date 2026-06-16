@@ -12,5 +12,5 @@ window.ACFI.banners = [
   // First two hidden — uncomment to show them again.
   // { text: 'CFC 2026', href: '#events', color: 'orange' },
   // { text: 'CFC 2026', href: '#events', color: 'blue' },
-  { text: 'CFC 2026', href: '#events', color: 'red' },
+  { text: 'CFC 2026', href: 'https://www.cfcaustin.org/', color: 'red' },
 ];
